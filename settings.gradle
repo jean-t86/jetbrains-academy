@@ -4,4 +4,5 @@ rootProject.name = 'jetbrains-academy'
 
 include(':number-base-converter')
 include(':zookeeper')
+include(':simple-chatty-bot')
 

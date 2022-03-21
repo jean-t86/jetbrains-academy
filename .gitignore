@@ -2,3 +2,4 @@
 .idea/*
 zookeeper/build/*
 number-base-converter/build/*
+simple-chatty-bot/build/*
