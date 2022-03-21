@@ -6,4 +6,5 @@ include(':number-base-converter')
 include(':zookeeper')
 include(':simple-chatty-bot')
 include(':simple-tic-tac-toe')
+include('cinema-room-manager')
 
