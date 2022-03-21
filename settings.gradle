@@ -8,4 +8,4 @@ include(':simple-chatty-bot')
 include(':simple-tic-tac-toe')
 include('cinema-room-manager')
 include('ascii-text-signature')
-
+include('connect-four')
